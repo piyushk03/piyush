@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piyush/static/css/main.e6c13ad2.css",
+    "main.js": "/piyush/static/js/main.ec79277b.js",
+    "static/js/787.846c378f.chunk.js": "/piyush/static/js/787.846c378f.chunk.js",
+    "index.html": "/piyush/index.html",
+    "main.e6c13ad2.css.map": "/piyush/static/css/main.e6c13ad2.css.map",
+    "main.ec79277b.js.map": "/piyush/static/js/main.ec79277b.js.map",
+    "787.846c378f.chunk.js.map": "/piyush/static/js/787.846c378f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ec79277b.js"
+  ]
+}
